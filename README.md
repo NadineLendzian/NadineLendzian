@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nadine</h1>
+<h1 align="center">Hi there 👋, I'm Nadine</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinelendzian&label=Profile%20views&color=0e75b6&style=flat" alt="nadinelendzian" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **next.js**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#**, **asp.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
