@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinelendzian&label=Profile%20views&color=0e75b6&style=flat" alt="nadinelendzian" /> </p>
 
-- 🌱 I’m currently learning **Flutter**, **next.js**
+- 🌱 I’m currently working with **Lovable**, **Abacus.ai**, **Claude**
 
-- 💬 Ask me about **C#**, **asp.net**
+- 💬 Ask me about **Solution Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
